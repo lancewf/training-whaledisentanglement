@@ -1,0 +1,36 @@
+
+
+ul.training{
+    list-style-type: none;
+    list-style: none;
+    padding-left: 0;
+}
+
+div.site-content {
+    padding: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+p {
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+
+div.logo-noaa img {
+    float: right;
+}
+
+.site-footer .sidebar-container {
+    background-color: #ffffff;
+ }
+
+
+div.site-content ul.training a {
+	color: rgb(56, 141, 187);
+	text-decoration: none;
+}
+
+div.site-content ul.training a:visited {
+	color: #ac0404;
+}
